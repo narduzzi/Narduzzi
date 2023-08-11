@@ -45,4 +45,4 @@ Let's push the boundaries of neuromorphic computing together and unlock new real
 
 <h3 align="center">Thank you for visiting my GitHub profile! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narduzzi" alt="https://github.com/narduzzi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=narduzzi" alt="https://github.com/narduzzi" /> </p>
