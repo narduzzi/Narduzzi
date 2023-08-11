@@ -4,9 +4,8 @@
 
 I'm passionate researcher in the exciting field of neuromorphic computing. With a deep interest in the intersection of neuroscience and computer science, I am dedicated to exploring and advancing the capabilities of neuromorphic systems to create brain-inspired computing solutions.
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narduzzi&show_icons=true" alt="GitHub Stats" />
+<img src="./stats.svg">
 </div>
 
 <p align="center">
