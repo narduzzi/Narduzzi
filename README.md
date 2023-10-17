@@ -32,6 +32,7 @@ My research primarily revolves around the following areas:
 
 Feel free to explore (and contribute to!) some of the projects and repositories I've been working on:
 
+- [NeurIO](https://neurio.org): a Python library for easy deployment of neural networks on edge devices, allowing ultra low power inference 🧠
 - [BrainDish Simulator](https://github.com/hugoladret/BrainDishSiMulator): The attempt from [Hugo](https://github.com/hugoladret) and I to create AGI out of Pong and a microcontroller. 🧪
 - [Tensorflow Deterministic](https://github.com/Narduzzi/tensorflow-deterministic) : Example for reproducible Tensorflow/Keras experiments ♻️
 - [This game](https://github.com/Narduzzi/StartHack2018) and [this one](https://github.com/Narduzzi/GGJ2020): Developed during hackathons and game jams🕹
