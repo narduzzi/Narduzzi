@@ -2,6 +2,7 @@
 
 
 
+
 I'm passionate researcher in the exciting field of neuromorphic computing. With a deep interest in the intersection of neuroscience and computer science, I am dedicated to exploring and advancing the capabilities of neuromorphic systems to create brain-inspired computing solutions.
 
 <div align="center">
@@ -32,7 +33,8 @@ My research primarily revolves around the following areas:
 
 Feel free to explore (and contribute to!) some of the projects and repositories I've been working on:
 
-- [NeurIO](https://neurio.org): a Python library for easy deployment of neural networks on edge devices, allowing ultra low power inference 🧠
+- 🔥 [NeurIO](https://neurio.org): a Python library for easy deployment of neural networks on edge devices, allowing ultra low power inference 🧠
+- 🆕 [AudioGPT](https://github.com/Narduzzi/audio-gpt): An vocal interface to ChatGPT
 - [BrainDish Simulator](https://github.com/hugoladret/BrainDishSiMulator): The attempt from [Hugo](https://github.com/hugoladret) and I to create AGI out of Pong and a microcontroller. 🧪
 - [Tensorflow Deterministic](https://github.com/Narduzzi/tensorflow-deterministic) : Example for reproducible Tensorflow/Keras experiments ♻️
 - [This game](https://github.com/Narduzzi/StartHack2018) and [this one](https://github.com/Narduzzi/GGJ2020): Developed during hackathons and game jams🕹
