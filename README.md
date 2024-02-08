@@ -3,7 +3,7 @@
 
 
 
-I'm PhD student working in the exciting field of neuromorphic computing. With a deep interest in the intersection of neuroscience and computer science, I am dedicated to exploring and advancing the capabilities of neuromorphic systems to create brain-inspired computing solutions.
+I'm a PhD student working in the exciting field of neuromorphic computing. With a deep interest in the intersection of neuroscience and computer science, I am dedicated to exploring and advancing the capabilities of neuromorphic systems to create brain-inspired computing solutions.
 
 <div align="center">
 <img src="./stats.svg">
