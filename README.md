@@ -12,6 +12,7 @@ I'm a PhD student working in the exciting field of neuromorphic computing. With 
 <h4 align="center"><u>Links</u></h4>
 
 <p align="center">
+<a href="https://bsky.app/profile/narduzzi.bsky.social" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.5.0/icons/bluesky.svg" alt="https://bsky.app/profile/narduzzi.bsky.social" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/narduzzi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/narduzzi/" height="35" width="35" /></a>
 <a href="https://www.researchgate.net/profile/Simon-Narduzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="https://www.researchgate.net/profile/Simon-Narduzzi" height="35" width="35" /></a>
 <a href="https://scholar.google.com/citations?user=GEy3NyAAAAAJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="https://scholar.google.com/citations?user=GEy3NyAAAAAJ" height="35" width="35" /></a>
