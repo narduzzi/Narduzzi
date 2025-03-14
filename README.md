@@ -42,7 +42,7 @@ Feel free to explore (and contribute to!) some of the projects and repositories 
 
 ## Get in Touch
 
-I'm always eager to connect with fellow researchers and AI enthusiasts. Drop me an email at simon.narduzzi@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/narduzzi/) and [Bluesky](https://bsky.app/profile/narduzzi.bsky.social).👋.
+I'm always eager to connect with fellow researchers and AI enthusiasts. Drop me an email at simon.narduzzi@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/narduzzi/) and [Bluesky](https://bsky.app/profile/narduzzi.bsky.social) 👋
 
 Let's push the boundaries of neuromorphic computing together!
 
